@@ -43,3 +43,6 @@ Some images showcasing the project's results:
 ![image](https://github.com/lonGDiBo/Recruitment-company/assets/115699195/2f1aaa11-e8ac-461e-af1e-59873e725b47)
 
 - Additionally, there are many other pages, and the website already includes multilingual functionality and email verificatio
+- Contact me to more detailed information or how to use code
+  + email: longpm211@gmail.com
+  + LinkedIn: https://www.linkedin.com/in/minhlongba/
